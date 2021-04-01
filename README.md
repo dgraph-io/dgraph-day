@@ -1,0 +1,1 @@
+Learn graph database best practices from experts using Dgraph at scale in production and building the next generation of apps. [Sign up for the FREE virtual event, April 15-16th.](https://dgraph.io/dgraph-day?utm_source=github&utm_medium=website&utm_campaign=DG_EV_DD_US_ZH_4-2021)
